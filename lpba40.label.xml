@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<labelset>
+<label id="0" tag="BACK" color="0x0" fullname="background"/>
+<label id="21" tag="S21" color="0xff8080" fullname="L superior frontal gyrus"/>
+<label id="22" tag="S22" color="0xff8000" fullname="R superior frontal gyrus"/>
+<label id="23" tag="S23" color="0xff" fullname="L middle frontal gyrus"/>
+<label id="24" tag="S24" color="0xff80ff" fullname="R middle frontal gyrus"/>
+<label id="25" tag="S25" color="0x807f00" fullname="L inferior frontal gyrus"/>
+<label id="26" tag="S26" color="0xff" fullname="R inferior frontal gyrus"/>
+<label id="27" tag="S27" color="0xffff" fullname="L precentral gyrus"/>
+<label id="28" tag="S28" color="0x800000" fullname="R precentral gyrus"/>
+<label id="29" tag="S29" color="0xff0080" fullname="L middle orbitofrontal gyrus"/>
+<label id="30" tag="S30" color="0x808040" fullname="R middle orbitofrontal gyrus"/>
+<label id="31" tag="S31" color="0x8000ff" fullname="L lateral orbitofrontal gyrus"/>
+<label id="32" tag="S32" color="0xff807f" fullname="R lateral orbitofrontal gyrus"/>
+<label id="33" tag="S33" color="0x8080ff" fullname="L gyrus rectus"/>
+<label id="34" tag="S34" color="0xffff" fullname="R gyrus rectus"/>
+<label id="41" tag="S41" color="0xff00" fullname="L postcentral gyrus"/>
+<label id="42" tag="S42" color="0x808040" fullname="R postcentral gyrus"/>
+<label id="43" tag="S43" color="0x7f80" fullname="L superior parietal gyrus"/>
+<label id="44" tag="S44" color="0xffff" fullname="R superior parietal gyrus"/>
+<label id="45" tag="S45" color="0xffff00" fullname="L supramarginal gyrus"/>
+<label id="46" tag="S46" color="0x8080" fullname="R supramarginal gyrus"/>
+<label id="47" tag="S47" color="0xff80ff" fullname="L angular gyrus"/>
+<label id="48" tag="S48" color="0x400080" fullname="R angular gyrus"/>
+<label id="49" tag="S49" color="0x80ff80" fullname="L precuneus"/>
+<label id="50" tag="S50" color="0xff" fullname="R precuneus"/>
+<label id="61" tag="S61" color="0x7f7fff" fullname="L superior occipital gyrus"/>
+<label id="62" tag="S62" color="0xff7f00" fullname="R superior occipital gyrus"/>
+<label id="63" tag="S63" color="0xff7f80" fullname="L middle occipital gyrus"/>
+<label id="64" tag="S64" color="0x7f00" fullname="R middle occipital gyrus"/>
+<label id="65" tag="S65" color="0xa00000" fullname="L inferior occipital gyrus"/>
+<label id="66" tag="S66" color="0x53a6a6" fullname="R inferior occipital gyrus"/>
+<label id="67" tag="S67" color="0xffff7f" fullname="L cuneus"/>
+<label id="68" tag="S68" color="0x80" fullname="R cuneus"/>
+<label id="81" tag="S81" color="0x800040" fullname="L superior temporal gyrus"/>
+<label id="82" tag="S82" color="0x80ff" fullname="R superior temporal gyrus"/>
+<label id="83" tag="S83" color="0x5c5ced" fullname="L middle temporal gyrus"/>
+<label id="84" tag="S84" color="0xc080ff" fullname="R middle temporal gyrus"/>
+<label id="85" tag="S85" color="0x11cfff" fullname="L inferior temporal gyrus"/>
+<label id="86" tag="S86" color="0xff0080" fullname="R inferior temporal gyrus"/>
+<label id="87" tag="S87" color="0x69b41f" fullname="L parahippocampal gyrus"/>
+<label id="88" tag="S88" color="0x40ff00" fullname="R parahippocampal gyrus"/>
+<label id="89" tag="S89" color="0xffff00" fullname="L lingual gyrus"/>
+<label id="90" tag="S90" color="0xffff" fullname="R lingual gyrus"/>
+<label id="91" tag="S91" color="0x23e7d8" fullname="L fusiform gyrus"/>
+<label id="92" tag="S92" color="0xff0000" fullname="R fusiform gyrus"/>
+<label id="101" tag="S101" color="0x80ff" fullname="L insular cortex"/>
+<label id="102" tag="S102" color="0x80ffff" fullname="R insular cortex"/>
+<label id="121" tag="S121" color="0x4080ff" fullname="L cingulate gyrus"/>
+<label id="122" tag="S122" color="0xff00ff" fullname="R cingulate gyrus"/>
+<label id="161" tag="S161" color="0x30ff" fullname="L caudate"/>
+<label id="162" tag="S162" color="0xff0080" fullname="R caudate"/>
+<label id="163" tag="S163" color="0x80a030" fullname="L putamen"/>
+<label id="164" tag="S164" color="0xff8000" fullname="R putamen"/>
+<label id="165" tag="L165" color="0x850a1f" fullname="L hippocampus"/>
+<label id="166" tag="L166" color="0xffff" fullname="R hippocampus"/>
+<label id="181" tag="S181" color="0xf08030" fullname="cerebellum"/>
+<label id="182" tag="S182" color="0x80ff" fullname="brainstem"/>
+</labelset>
